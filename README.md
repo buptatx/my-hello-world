@@ -1,2 +1,4 @@
 # my-hello-world
-my hellworld to github
+refactor echohello function 
+@input none to username
+@print user say: helloworld
